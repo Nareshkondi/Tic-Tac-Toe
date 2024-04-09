@@ -49,6 +49,15 @@ body{
   border: none;
 
 }
+
+#reset-btn:hover{
+  opacity:85%;
+
+}
+#reset-btn:active{
+  opacity:60%;
+
+}
 #new-btn{
   padding: 1rem;
   font-size: 1.25rem;
@@ -58,6 +67,16 @@ body{
   border: none;
 
 }
+#new-btn:hover{
+  opacity:85%;
+
+}
+#new-btn:active{
+  opacity:60%;
+
+}
+
+
 #msg{
   color: #F2BEFC;
   font-size: 5vmin;
